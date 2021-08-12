@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/address.png</file>
+        <file>icons/wechat.png</file>
+    </qresource>
+    <qresource prefix="/files"/>
+    <qresource prefix="/images"/>
+</RCC>
